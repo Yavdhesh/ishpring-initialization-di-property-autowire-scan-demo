@@ -1,0 +1,9 @@
+package com.luv2code.springdemo;
+
+public interface ComponetScanDemoInterface {
+	
+	
+	public void dekho();
+	public void bataao();
+
+}
